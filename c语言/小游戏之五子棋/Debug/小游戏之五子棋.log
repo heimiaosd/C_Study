@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Documents\GitHub\C-\c语言\小游戏之五子棋\main.cpp(23,19): warning C4305: “初始化”: 从“int”到“char”截断
+D:\Documents\GitHub\C-\c语言\小游戏之五子棋\main.cpp(23,14): warning C4309: “初始化”: 截断常量值
+D:\Documents\GitHub\C-\c语言\小游戏之五子棋\main.cpp(24,19): warning C4305: “初始化”: 从“int”到“char”截断
+D:\Documents\GitHub\C-\c语言\小游戏之五子棋\main.cpp(24,14): warning C4309: “初始化”: 截断常量值
+D:\Documents\GitHub\C-\c语言\小游戏之五子棋\main.cpp(716): warning C4715: “gameWin”: 不是所有的控件路径都返回值
+D:\Documents\GitHub\C-\c语言\小游戏之五子棋\main.cpp(782): warning C4715: “gameLogicalJudgment”: 不是所有的控件路径都返回值
+  小游戏之五子棋.vcxproj -> D:\Documents\GitHub\C-\c语言\Debug\小游戏之五子棋.exe

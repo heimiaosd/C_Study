@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Documents\GitHub\C-\c语言\printf和scanf的使用\main.cpp(28,16): warning C4305: “初始化”: 从“double”到“float”截断
+  printf和scanf的使用.vcxproj -> D:\Documents\GitHub\C-\c语言\Debug\printf和scanf的使用.exe
